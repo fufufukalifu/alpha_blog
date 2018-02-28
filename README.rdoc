@@ -1,0 +1,5 @@
+1. Create a new railss application and call it alpha-blog
+2. ensure you can run the server and preview the application
+3. pages controller
+4. ensure you have appropriate routes
+5. create homepage about
